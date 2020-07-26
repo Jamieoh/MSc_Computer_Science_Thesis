@@ -15,7 +15,7 @@
 - Title: A Comparison of Deep Learning Models in Human Activity Recognition and Behavioural Prediction on the MHEALTH Dataset
 - Link: http://ceur-ws.org/Vol-2563/aics_21.pdf
 
-## Eliva Press (academic book publishing company)
+## Eliva Press (Academic Book Publishing Company)
 - I conducted additional analysis on this research, focusing on how Human Activtiy Recognitinon powered by Deep Learning can have an instrumental knock-on effect in the healthcare domain. I focused on providing an in-depth discussion into how it can benefit clinician decision support, ambient assisted living, aiding the elderly as well as diagnosis and prevention.
 - Title: Human Activity Recognition using Wearable Sensors: An Introduction into how Deep Learning can aid Healthcare
 - Link: https://www.elivapress.com/pl/book/book-9267208511/
