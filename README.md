@@ -1,4 +1,4 @@
-# A Investigation of Machine Learning and Clustering Algorithms in Human Activity Recognition and Behavioural Prediction using MHEALTH Data
+# An Investigation of Machine Learning and Clustering Algorithms in Human Activity Recognition and Behavioural Prediction using MHEALTH Data
 
 - The following repository contains the Python code and PDF for my thesis which was titled: A Comparison of Deep Learning Models in Human Activity Recognition and Behavioural Prediction on the MHEALTH Dataset.  
 - Investigation of deep learning and dimensionality reduction techniques in human activity recognition and behavioural prediction. 
