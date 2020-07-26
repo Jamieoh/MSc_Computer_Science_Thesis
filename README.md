@@ -7,10 +7,13 @@
 - Another intriguing aim of this research was to compare two data clustering techniques for visualising the MHEALTH dataset. 
 - Presented the best visualization technique by conducting a comparative study on the two visualisation techniques (t-SNE + DBSCAN). 
 
-## Published at AICS 2019 - 27th AIAI Irish Conference on Artificial Intelligence and Cognitive Science
+
+# Publications
+
+## AICS 2019 - 27th AIAI Irish Conference on Artificial Intelligence and Cognitive Science
 - Title: A Comparison of Deep Learning Models in Human Activity Recognition and Behavioural Prediction on the MHEALTH Dataset
 - Link: http://ceur-ws.org/Vol-2563/aics_21.pdf
 
-## Published as an academic book by Eliva Press, an innovative forward thinking academic book publishing company situated in Moldova
-- Title: Human Activity Recognition using Wearable Sensors: An Introduction into how Deep Learning can aid Healthcare (Colour edition)
+## Eliva Press (academic book publishing company)
+- Title: Human Activity Recognition using Wearable Sensors: An Introduction into how Deep Learning can aid Healthcare
 - Link: https://www.elivapress.com/pl/book/book-9267208511/
